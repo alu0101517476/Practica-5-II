@@ -1,4 +1,4 @@
-# Practica-4-II
+# Practica-5-II
 
 Autor: Eric Bermúdez Hernández
 
@@ -222,5 +222,6 @@ public class Magnet : MonoBehaviour, ILookSelectable
 ```
 
 En el siguiente vídeo se puede ver el funcionamiento de la escena, probado desde el ordenador:
+
 
 ![Juego en marcha](Img/Recolección.gif)
